@@ -13,9 +13,9 @@
 
     transform: translateX(-50%) translateY(-50%);
 
-    background: radial-gradient(#00E7BD, #50C878);
+    background: linear-gradient(to bottom right, pink 45%, #bcff54);
 
-    transition: all 0.5s;
+    transition: all 0.6s;
 
 }
 
@@ -35,7 +35,7 @@
 
     transform: translateX(-50%) translateY(-50%);
 
-    background: linear-gradient(#50C878, #013A4E);
+    background: linear-gradient(pink 45%, #bcff54);
 
     box-shadow: 0 0 20px 2px #013A4E;
 
