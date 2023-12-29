@@ -1,7 +1,7 @@
-var messages = ["Happy 🎂 Blerinda",
-    "Sorry this is coming late. I hope you had a lovely day Eri 🌹",
+var messages = ["Happy 🎂 Joy",
+    "I love you and I hope you have a lovely day🌹",
 
-    "Wish you the best of everything, My Jolie"];
+    "Wish you the best of everything, My Dear Moonsilver"];
 
 var i = messages.length;
 var s = Math.floor(Math.random() * i);
